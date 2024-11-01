@@ -1,0 +1,99 @@
+=== Woomizer ===
+Contributors: sofyansitorus
+Tags: woocommerce,customizer,woocommerce-customizer
+Requires at least: 4.8.0
+Tested up to: 4.9.2
+Requires PHP: 5.6
+Stable tag: 1.2.1
+License: GPL-2.0+
+License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+
+WooCommerce customizer with live preview.
+
+== Description ==
+WooCommerce customizer with live preview.
+
+= Features =
+
+* Customize add to cart button text for products loop.
+* Customize add to cart button text for product single.
+* Customize flash sale text.
+* Customize submit order button text.
+* Customize product tabs title.
+* Customize columns and rows number for product grid.
+* Hide product tabs.
+* Hide cross sell product in cart page.
+
+== Installation ==
+= Minimum Requirements =
+
+* WordPress 4.8 or later
+* WooCommerce 3.0 or later
+
+= AUTOMATIC INSTALLATION =
+
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t even need to leave your web browser. To do an automatic install of Woomizer, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
+
+In the search field type “Woomizer” and click Search Plugins. You can install it by simply clicking Install Now. After clicking that link you will be asked if you’re sure you want to install the plugin. Click yes and WordPress will automatically complete the installation. After installation has finished, click the ‘activate plugin’ link.
+
+
+= MANUAL INSTALLATION =
+
+1. Download the plugin zip file to your computer
+1. Go to the WordPress admin panel menu Plugins > Add New
+1. Choose upload
+1. Upload the plugin zip file, the plugin will now be installed
+1. After installation has finished, click the ‘activate plugin’ link
+
+== Frequently Asked Questions ==
+= Where can I get support? =
+You can create ticket at GitHub repository:
+
+* [Plugin GitHub Repository](https://github.com/sofyansitorus/Woomizer)
+
+= Where can I report bugs? =
+You can create ticket at GitHub repository:
+
+* [Plugin GitHub Repository](https://github.com/sofyansitorus/Woomizer)
+
+= Where can I request a feature? =
+You can create ticket at GitHub repository:
+
+* [Plugin GitHub Repository](https://github.com/sofyansitorus/Woomizer)
+
+
+== Changelog ==
+
+= 1.2.1 =
+
+* Fix - Wrong selector in customize preview js.
+* Fix - Add to cart button text is not changed.
+
+= 1.2.0 =
+
+* Improvement - Navigating to a URL in the Customizer Preview when a Section is Expanded.
+* Improvement - Refactor base code to enable custom customizer structure.
+
+= 1.1.1 =
+
+* Improvement - Add new plugin action links.
+* Feature - Add new setting for product grid.
+
+= 1.1.0 =
+
+* Feature - Add new setting section for cart page.
+* Feature - Add new setting section for checkout page.
+* Improvement - Refactor PHP and JS as modular.
+* Fix - Bug for product tabs live preview.
+
+= 1.0.0 =
+
+* Feature - Customize add to cart button text for products loop.
+* Feature - Customize add to cart button text for product single.
+* Feature - Customize product tabs title.
+* Feature - Hide product tabs.
+
+== Upgrade Notice ==
+
+= 1.2.1 =
+This version include some bugs fix. Upgrade immediately.
